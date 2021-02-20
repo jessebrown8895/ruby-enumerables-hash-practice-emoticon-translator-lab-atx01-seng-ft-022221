@@ -1,4 +1,4 @@
-# Emoticon Translator
+.d  # Emoticon Translator
 
 ## Learning Goals
 
